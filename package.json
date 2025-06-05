@@ -1,5 +1,5 @@
 {
-  "name": "@mathieuc/tradingview",
+  "name": "@bidz-labs/tradingview-api",
   "version": "3.5.1",
   "description": "Tradingview instant stocks API, indicator alerts, trading bot, and more !",
   "main": "main.js",
